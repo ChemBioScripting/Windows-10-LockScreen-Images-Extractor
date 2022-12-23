@@ -7,6 +7,6 @@ The following is a videotutorial (in Italian language, but you can simply follow
 
 ### Improved Version (dependent on ImageMagick)
 
-Due to the presence of two versions, portrait and landscape, of the same image, the script has been now implemented with the detection of the image format and consequent export in two distinct folders, through the use of the cross-platform [ImageMagick](https://imagemagick.org/script/download.php) program, which must first be installed on the computer in use, with the executable's path added to the PATH environment variable of the Operating System in use.
+Due to the presence of two versions, portrait and landscape, of the same image, the script has been now implemented [see `LockScreen Images Extractor (ImageMagick version).bat`, in *Italian* and *English* version] with the detection of the image format and consequent exporting in two distinct folders, through the use of the cross-platform [ImageMagick](https://imagemagick.org/script/download.php) program, which must first be installed on the computer in use, with the executable's path added to the PATH environment variable of the Operating System in use.
 
 The following is a videotutorial of this improved script version:
