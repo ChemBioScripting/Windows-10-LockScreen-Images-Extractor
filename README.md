@@ -10,3 +10,5 @@ The following is a videotutorial (in Italian language, but you can simply follow
 Due to the presence of two versions, portrait and landscape, of the same image, the script has been now implemented [see `LockScreen Images Extractor (ImageMagick version).bat`, in *Italian* and *English* version] with the detection of the image format and consequent exporting in two distinct folders, through the use of the cross-platform [ImageMagick](https://imagemagick.org/script/download.php) program, which must first be installed on the computer in use, with the executable's path added to the PATH environment variable of the Operating System in use.
 
 The following is a videotutorial of this improved script version:
+
+<a href="https://www.youtube.com/watch?v=1zLBYm5MNCQ" target="_blank" title="Videotutorial on YouTube"><img src="https://raw.githubusercontent.com/ChemBioScripting/Windows-10-Spotlight-Images-Extractor/master/Dove%20vengono%20salvate%20le%20immagini%20del%20Login%20di%20Windows_%20Guarda%20il%20video%20per%20scoprirlo!%20(IMPLEMENTATO)%20(BQ).jpg" alt="IMAGE ALT TEXT HERE" width="820" border="0" /></a>
